@@ -38,7 +38,7 @@ Here are a few projects I'm proud of. You can find more on my repositories tab!
 
 | Project                                                                                      | Description                                                    |
 | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| **[handwritten-digit-recognition](https://github.com/AirTomCat/handwritten-digit-recognition)** | A machine learning model to recognize handwritten digits.      |
+| **[Bitcoin Price Notifier]()** | A machine learning model to recognize handwritten digits.      |
 | **[awesome-windows-11-widgets-clone](https://github.com/AirTomCat/awesome-windows-11-widgets-clone)** | A clone of the Windows 11 widgets panel using web technologies.|
 | **[simple-weather-app](https://github.com/AirTomCat/simple-weather-app)** | A desktop app to get real-time weather information.            |
 | **[snake-game](https://github.com/AirTomCat/snake-game)** | The classic Snake game built with Python and Pygame.           |
