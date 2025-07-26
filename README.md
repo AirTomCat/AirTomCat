@@ -39,8 +39,8 @@ Here are a few projects I'm proud of. You can find more on my repositories tab!
 | Project                                                                                      | Description                                                    |
 | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
 | **[Bitcoin Price Notifier](https://github.com/AirTomCat/Projects/tree/main/Bitcoin%20Price%20Notifier)** | This Python script monitors the live price of Bitcoin and sends a desktop notification when its value surpasses a user-defined target.      |
-| **[Simple GUI Calculator]([https://github.com/AirTomCat/awesome-windows-11-widgets-clone](https://github.com/AirTomCat/Projects/tree/main/Simple%20calculator))** | A basic graphical user interface (GUI) calculator application built using Python and its standard tkinter library.|
-| **[Contra Like Game - Game-1 Project]([https://github.com/AirTomCat/simple-weather-app](https://github.com/AirTomCat/Simple-Games/tree/main/Game-1))** | A simple game, still at the starting stages            |
+| **[Simple GUI Calculator](https://github.com/AirTomCat/Projects/tree/main/Simple%20calculator)** | A basic graphical user interface (GUI) calculator application built using Python and its standard tkinter library.|
+| **[Contra Like Game - Game-1 Project](https://github.com/AirTomCat/Simple-Games/tree/main/Game-1)** | A simple game, still at the starting stages            |
 
 ---
 
