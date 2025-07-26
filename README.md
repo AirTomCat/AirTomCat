@@ -1,61 +1,57 @@
-<h1 align="center">Hi 👋, I'm AirTomCat</h1> <h3 align="center">A passionate Graphic Designer & Developer from India</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=airtomcat&label=Profile%20views&color=0e75b6&style=flat" alt="airtomcat" /> <img src="https://img.shields.io/github/followers/airtomcat?label=Follow&style=social" alt="followers" /> </p>
-📝 About Me
+### Hi there, I'm AirTomCat 👋
 
-    🎨 Designer specializing in digital art & UI/UX.
+<p align="center">
+  <a href="https://github.com/AirTomCat">
+    <img src="https://github-readme-stats.vercel.app/api?username=AirTomCat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="AirTomCat's GitHub Stats" />
+  </a>
+  <a href="https://github.com/AirTomCat">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AirTomCat&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
+  </a>
+p>
 
-    💻 Developer working with Python, Go, and Web Tech.
+I'm a Computer Science undergraduate from **Pune, India**, with a passion for building cool and useful applications. I love diving into both Python development and modern web technologies to create software that is both functional and fun to use.
 
-    🚀 Currently: Exploring AI/ML and interactive 3D design.
+-   🔭 I’m currently exploring the world of **Machine Learning** with projects like my Handwritten Digit Recognizer.
+-   🌱 I’m focused on learning more about creating efficient algorithms and building seamless user interfaces.
+-   💬 Ask me about **Python**, **JavaScript**, or **game development**!
 
-    🏆 Open-source contributor and community mentor.
+---
 
-📫 How to Reach Me
+### 💻 My Tech Stack
 
-    Email: kevindavycode@hotmail.com
+Here are some of the technologies I enjoy working with:
 
-    LinkedIn: linkedin.com/in/airtomcat
+<p align="left">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+    <img src="https://img.shields.io/badge/Pygame-6E7072?style=for-the-badge&logo=pygame&logoColor=white" alt="Pygame"/>
+</p>
 
-    Twitter: @airtomcat
+---
 
-    Portfolio: airtomcat.com
+### 🚀 My Projects
 
-🌐 Connect With Me
-<p align="left"> <a href="https://linkedin.com/in/airtomcat" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat"></a> <a href="https://twitter.com/airtomcat" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&style=flat"></a> <a href="mailto:kevindavycode@hotmail.com"><img src="https://img.shields.io/badge/Email-grey?logo=gmail&style=flat"></a> </p>
-🛠️ Languages & Tools
-<p align="left"> <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/></a> <a href="https://golang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40"/></a> <a href="https://www.blender.org/"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40"/></a> <a href="https://www.adobe.com/in/products/illustrator.html"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"/></a> <a href="https://www.photoshop.com/en"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40"/></a> <a href="https://unity.com/"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40"/></a> <a href="https://unrealengine.com/"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40"/></a> <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"/></a> <a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40"/></a> <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"/></a> <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"/></a> </p>
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=airtomcat&show_icons=true&theme=default" alt="airtomcat stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=airtomcat&show_icons=true&locale=en&layout=compact" alt="airtomcat languages" /> </p>
-🚀 Projects
-Project Name	Description	Tech Used	Live Demo
-3D Portfolio Site	Interactive site showcasing my digital work	React, Three.js, Blender	Demo
-AI Art Generator	Neural network for art style transfer	Python, PyTorch	Demo
-Game Prototypes	Prototyping games with Unity and Unreal	Unity, C#, Unreal Engine	Demo
-🎖️ Achievements
+Here are a few projects I'm proud of. You can find more on my repositories tab!
 
-    🏅 Dribbble Top 100 Designs 2024
+| Project                                                                                      | Description                                                    |
+| -------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| **[handwritten-digit-recognition](https://github.com/AirTomCat/handwritten-digit-recognition)** | A machine learning model to recognize handwritten digits.      |
+| **[awesome-windows-11-widgets-clone](https://github.com/AirTomCat/awesome-windows-11-widgets-clone)** | A clone of the Windows 11 widgets panel using web technologies.|
+| **[simple-weather-app](https://github.com/AirTomCat/simple-weather-app)** | A desktop app to get real-time weather information.            |
+| **[snake-game](https://github.com/AirTomCat/snake-game)** | The classic Snake game built with Python and Pygame.           |
+| **[personal-portfolio](https://github.com/AirTomCat/personal-portfolio)** | My personal portfolio website to showcase my work.             |
 
-    🎉 Open Source Grant Winner (Design Tools)
+---
 
-    🏆 Speaker at Indie DevConf 2025
+### 📫 Get in Touch
 
-✍️ Latest Blog Posts
+Let's connect! Feel free to reach out to me on any of these platforms.
 
-    Mastering 3D with Blender: Tips for Designers
-
-    From Concept to Product: My Art Creation Workflow
-
-    How I Use Python for Creative Automation
-
-🤝 Support & Collaboration
-
-    Buy me a coffee to support more open-source designs!
-
-    Connect for freelance, collaborations, or workshops.
-
-📜 Fun Facts
-
-    Loves hiking and landscape photography 📸
-
-    Always experimenting with new art tools and techniques
-
-    Favorite quote: "Creativity is intelligence having fun." – Albert Einstein
+<p align="left">
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Behance&logoColor=white" alt="Portfolio"/></a>
+</p>
